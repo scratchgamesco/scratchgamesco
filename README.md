@@ -20,7 +20,17 @@ Scratch Games are a great beginning for anybody wanting game design. Players may
 
 ## Why Kids and Beginners Should Try Scratch Games
 
-Scratch Games is a perfect platform for children, teenagers, and novices since it combines education and amusement in a special way. Its accessibility—no previous coding knowledge is needed—guarantees that anyone can begin producing immediately. The platform’s vibrant community, with over 103 million users globally as of 2023, provides a friendly space to study, share, and grow. 
+![scratchgames.png](https://github.com/scratchgamesco/scratchgamesco/blob/main/scratchgames.png)
+
+Scratch Games is a perfect platform for children, teenagers, and novices since it combines education and amusement in a special way. Its accessibility-no previous coding knowledge is needed-guarantees that anyone can begin producing immediately. The platform’s vibrant community, with over 103 million users globally as of 2023, provides a friendly space to study, share, and grow. 
 
 ## Use Scratch Games to Free Your Imagination
 Scratch is a vibrant platform that mixes the power of coding with the pleasure of play. Users of Scratch develop coding knowledge, problem-solving abilities, and inventiveness by means of game creation and exploration, all while enjoying themselves. Scratch Games offers the tools and community to make it happen whether you're an adult wanting to learn coding or a child dreaming of constructing the next large game.
+
+Discover more interesting Scratch Games when joining social networks:
+- [Tumblr](https://www.tumblr.com/scratchgamesblog)
+- [X](https://x.com/scratchgames09)
+- [Reddit](https://www.reddit.com/user/Puzzled-State2263/)
+- [Plurk](https://www.plurk.com/scratchgames)
+- [Twitch](https://www.twitch.tv/scratchgamesco)
+
