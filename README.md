@@ -1,7 +1,10 @@
 # Discover Scratch Games: Play Creative Challenges Developed From Scratch
 [Scratch Games](https://scratchgames.co/) is a fascinating platform where people of all ages, particularly children and novices, can plunge into the realm of game development and programming. Originally from the MIT Media Lab, Scratch is a free, block-based programming language and online community that enables users to produce interactive tales, animations, and, most especially, games. Scratch is a great beginning point for would-be coders and game creators since it provides a special chance to investigate, discover, and create.
 
-[scratch-games.PNG](https://github.com/scratchgamesco/scratchgamesco/blob/fc84067a5497f917e00f20477636df224fef5eb5/scratch-games.PNG)
+
+
+[scratch-games.PNG](https://github.com/scratchgamesco/scratchgamesco/commit/fc84067a5497f917e00f20477636df224fef5eb5)
+
 
 
 ## What are Scratch Games?
